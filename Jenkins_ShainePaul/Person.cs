@@ -9,5 +9,6 @@ namespace Jenkins_ShainePaul
     internal class Person
     {
         public string Name { get; set; }
+        public string PhoneNumber { get; set; }
     }
 }
